@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Enotional trainer</string>
+    <string name="app_name">Emotional trainer</string>
+    <string name="task_view_text">tasks will be displayed here*************************************</string>
+    <string name="hint_input_name">Введите имя, пожалуйста</string>
+    <string name="proceed_button">Продолжить</string>
+    <string name="greetings_text">Здравствуйте! Комманда Human vs AI создала этот тренажер с любовью. Давайте знакомиться!</string>
+    <string name="CountBTN">Продолжить</string>
+    <string name="start_text">Здравствуйте, %s! Приступим к занятиям?</string>
+
 </resources>
